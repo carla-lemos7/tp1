@@ -1,0 +1,48 @@
+RESOLVER LOS SIGUIENTES EJERCICIOS, utilizando javascript integrado en html.
+
+1- Crea un botón que, al ser presionado, muestre un mensaje de "¡Hola, Mundo!" en la página.
+
+2-  Crea un campo de texto para que el usuario escriba su nombre y un botón. 
+Al presionar el botón, el programa debe mostrar un saludo personalizado como "Hola, [nombre ingresado]".
+
+3-  Crea dos campos de texto para que el usuario ingrese dos números y un botón. 
+Al hacer clic, el programa debe sumar los dos números y mostrar el resultado.
+
+4- Pide al usuario su edad a través de un campo de texto. Al presionar un botón, 
+ el programa debe determinar si es mayor de edad (18 años o más) y mostrar un mensaje apropiado.
+
+5-  Pide al usuario que ingrese un número. El programa debe determinar si el número es par o impar 
+y mostrar el resultado en pantalla.
+
+6-  Pide al usuario dos números. El programa debe compararlos y decir si el primer número es mayor, 
+menor o igual que el segundo.
+
+7-  Crea dos campos de texto: "Contraseña" y "Confirmar Contraseña". Al presionar un botón, 
+el programa debe verificar si ambas contraseñas son iguales y si tienen una longitud mínima de 8 caracteres. 
+Deberá mostrar un mensaje de éxito o error.
+
+8- Pide al usuario un número. Al presionar un botón, el programa debe generar y mostrar la 
+ tabla de multiplicar de ese número, del 1 al 20 (saltando de 2, es decir, mostrar 0x..2x...4x...6x...etc.)
+
+9-  Crea un botón que, cada vez que se presiona, incremente un contador y muestre en 
+pantalla el número total de clics realizados.
+
+10-  Pide al usuario un número 'N'. Al hacer clic en un botón, el programa debe generar 
+una lista con 'N' elementos (por ejemplo, "Elemento 1", "Elemento 2", etc.) en la página.
+
+11-  Crea una función que convierta grados Celsius a Fahrenheit. El usuario debe poder 
+ingresar un valor en Celsius y ver el resultado convertido en Fahrenheit.
+
+12-  Crea una función que verifique si un texto parece un email válido 
+(debe contener al menos un '@' y un '.'). El usuario ingresará un email y el programa le dirá 
+si el formato es correcto o no.
+
+13-  Dado un array predefinido de nombres, permite al usuario escribir un nombre y buscar 
+si existe en la lista. El programa debe mostrar un mensaje indicando si el nombre fue encontrado o no.
+
+14-  Permite al usuario añadir varias notas numéricas a una lista. Un segundo botón debe 
+calcular el promedio de todas las notas ingresadas y mostrarlo.
+
+15-  El programa debe generar un número aleatorio entre 1 y 100. El usuario debe intentar 
+adivinarlo. Con cada intento, el programa le dará una pista, diciendo si el número es más alto, 
+más bajo, o si ha acertado.

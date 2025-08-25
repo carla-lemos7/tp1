@@ -1,0 +1,23 @@
+h2 {
+    color:brown;
+}
+
+button{
+    background-color: cadetblue;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+}
+
+#num {
+    background-color: burlywood;
+    border-radius: 5px;
+}
+
+.contenedor {
+    background-color: gray;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px;
+}
